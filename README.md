@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Neural Networks
 - 🌱 I’m currently pursuing B.Tech at KGEC, WB ,IN
-- 📫 How to reach me: nileshpal530[at]gmail[dot]com
+- 📫 How to reach me: nileshpal530@gmail.com
 - ⚡ Fun fact: I'm a History Freak too..
 
