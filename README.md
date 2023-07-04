@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Neural Networks
+- 🔭 I’m currently working on Neural Networks,NLP
 - 🌱 I’m currently pursuing B.Tech at KGEC, WB ,IN
 - 📫 How to reach me: nileshpal530@gmail.com
 - ⚡ Fun fact: I'm a History Freak too..
