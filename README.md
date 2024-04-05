@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nileshpal530@gmail.com
 - ⚡ Fun fact: I'm a History Freak too..
 
+[![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallboy713102)](https://github.com/anuraghazra/github-readme-stats)
+
